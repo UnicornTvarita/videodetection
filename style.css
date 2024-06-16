@@ -1,0 +1,27 @@
+body{
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.HEADING{
+    width:100% ;
+    font-size: 25px;
+}
+
+#no,#status{
+    color: beige;
+    font-size: 20px;
+}
+
+.footer{
+position: fixed;
+bottom: 0;
+font-size: 20px;
+width: 100%;
+text-align: center;
+background-color: rgb(227, 184, 106);
+}
+ canvas{
+    border : 5px solid rgb(233, 168, 93)
+ }
